@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gwHeSHHYjHDOjCy/amdZTjgLOayoRTC/1gXMvEg1b2cJVf8ApR+mW4D2t6VwdXpPEgLNVdEfKNz5KMbHnQT5zA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rosan\\Desktop\\SENAC 2020\\SpaceHair-RPB\\SpaceHair Build 1.01\\SpaceHair\\SpaceHair.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rosan\\.nuget\\packages\\mysqlconnector\\1.3.10\\mysqlconnector.1.3.10.nupkg.sha512"
+  ],
+  "logs": []
+}

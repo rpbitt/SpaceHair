@@ -1,0 +1,180 @@
+C:\Users\rosan\Documents\senac\SpaceHair\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rosan\Documents\senac\SpaceHair\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rosan\Documents\senac\SpaceHair\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\rosan\Documents\senac\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.exe
+C:\Users\rosan\Documents\senac\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.deps.json
+C:\Users\rosan\Documents\senac\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.runtimeconfig.json
+C:\Users\rosan\Documents\senac\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.runtimeconfig.dev.json
+C:\Users\rosan\Documents\senac\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.dll
+C:\Users\rosan\Documents\senac\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.pdb
+C:\Users\rosan\Documents\senac\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.Views.dll
+C:\Users\rosan\Documents\senac\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.Views.pdb
+C:\Users\rosan\Documents\senac\SpaceHair\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.csprojAssemblyReference.cache
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.AssemblyInfoInputs.cache
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.AssemblyInfo.cs
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.csproj.CoreCompileInputs.cache
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorAssemblyInfo.cache
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorAssemblyInfo.cs
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.TagHelpers.input.cache
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.TagHelpers.output.cache
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorCoreGenerate.cache
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Cadastro.cshtml.g.cs
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Editar.cshtml.g.cs
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Lista.cshtml.g.cs
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorTargetAssemblyInfo.cache
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorTargetAssemblyInfo.cs
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.Views.pdb
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.csproj.CopyComplete
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\staticwebassets\SpaceHair.StaticWebAssets.Manifest.cache
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\staticwebassets\SpaceHair.StaticWebAssets.xml
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.dll
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.pdb
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.genruntimeconfig.cache
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Colaborador\Cadastro.cshtml.g.cs
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Colaborador\Editar.cshtml.g.cs
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Colaborador\Lista.cshtml.g.cs
+C:\Users\rosan\Documents\senac\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Colaborador\Login.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.exe
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.deps.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.runtimeconfig.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.runtimeconfig.dev.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.dll
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.pdb
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.Views.dll
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.Views.pdb
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.csprojAssemblyReference.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.AssemblyInfoInputs.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.AssemblyInfo.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.csproj.CoreCompileInputs.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorAssemblyInfo.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorAssemblyInfo.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.TagHelpers.input.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.TagHelpers.output.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorCoreGenerate.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Colaborador\Cadastro.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Colaborador\Editar.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Colaborador\Lista.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Colaborador\Login.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Cadastro.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Editar.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Lista.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorTargetAssemblyInfo.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorTargetAssemblyInfo.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.Views.pdb
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.csproj.CopyComplete
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\staticwebassets\SpaceHair.StaticWebAssets.Manifest.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\staticwebassets\SpaceHair.StaticWebAssets.xml
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.dll
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.pdb
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.genruntimeconfig.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.exe
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.deps.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.runtimeconfig.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.runtimeconfig.dev.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.dll
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.pdb
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.Views.dll
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.Views.pdb
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.csprojAssemblyReference.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.AssemblyInfoInputs.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.AssemblyInfo.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.csproj.CoreCompileInputs.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorAssemblyInfo.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorAssemblyInfo.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.TagHelpers.input.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.TagHelpers.output.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorCoreGenerate.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Colaborador\Cadastro.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Colaborador\Editar.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Colaborador\Lista.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Colaborador\Login.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Cadastro.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Editar.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Lista.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorTargetAssemblyInfo.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorTargetAssemblyInfo.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.Views.pdb
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.csproj.CopyComplete
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\staticwebassets\SpaceHair.StaticWebAssets.Manifest.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\staticwebassets\SpaceHair.StaticWebAssets.xml
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.dll
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.pdb
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.genruntimeconfig.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.exe
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.deps.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.runtimeconfig.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.runtimeconfig.dev.json
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.dll
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.pdb
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.Views.dll
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\bin\Debug\netcoreapp3.1\SpaceHair.Views.pdb
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.csprojAssemblyReference.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.AssemblyInfoInputs.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.AssemblyInfo.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.csproj.CoreCompileInputs.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorAssemblyInfo.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorAssemblyInfo.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.TagHelpers.input.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.TagHelpers.output.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorCoreGenerate.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Colaborador\Cadastro.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Colaborador\Editar.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Colaborador\Lista.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Colaborador\Login.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Cadastro.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Editar.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Lista.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorTargetAssemblyInfo.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.RazorTargetAssemblyInfo.cs
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.Views.pdb
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.csproj.CopyComplete
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\staticwebassets\SpaceHair.StaticWebAssets.Manifest.cache
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\staticwebassets\SpaceHair.StaticWebAssets.xml
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.dll
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.pdb
+C:\Users\rosan\Desktop\SENAC 2020\SpaceHair-RPB\SpaceHair Build 1.01\SpaceHair\obj\Debug\netcoreapp3.1\SpaceHair.genruntimeconfig.cache

@@ -1,0 +1,33 @@
+@model IEnumerable<Colaborador>
+@{
+    ViewData["Title"] = "Lista";
+}
+
+<table class="table">
+    <thead class="thead-dark">
+        <th>Id</th>
+        <th>Nome</th>
+        <th>Login</th>
+        <th>Senha</th>
+        <th>Data de Contratação</th>
+        <th>Operações</th>
+
+    </thead>
+    @foreach (Colaborador c in Model)
+    {
+        <tr>
+            <td>@c.Id</td>
+            <td>@c.Nome</td>
+            <td>@c.Login</td>
+            <td>@c.Senha</td>
+            <td>@c.DataContratacao.ToShortDateString()</td>
+            <td>
+                <a href="/Colaborador/Remover?Id=@c.Id" onclick="return confirm('Deseja mesmo excluir?')">Remover</a>
+                <a href="/Colaborador/Editar?Id=@c.Id">Alterar</a>
+
+            </td>
+        </tr> 
+    }
+    </thead>
+
+</table>

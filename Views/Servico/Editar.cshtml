@@ -1,0 +1,41 @@
+@model Servico
+@{
+    ViewData["Title"] = "Editar";
+}
+
+<form method="POST" asp-action="Editar">
+    <p>
+        <label asp-for="Nome">Nome:</label>
+        <input asp-for="Nome" required>
+    </p>
+
+    <p>
+        <label asp-for="Setor">Setor:</label>
+        <input asp-for="Setor">
+    </p>
+    <p>
+        <label asp-for="Preco">Preço:</label>
+        <input asp-for="Preco">
+
+    </p>
+    <p>
+        <label asp-for="Unidade">Unidade:</label>
+        <input asp-for="Unidade">
+    </p>
+    <p>
+        <label asp-for="DataServico">DataServiço:</label>
+        <input asp-for="DataServico" type="date">
+    </p>     
+    <p>
+        <label asp-for="Colaborador">Colaborador:</label>
+        <input asp-for="Colaborador">
+    </p>
+
+    <p>
+        <input type="submit" value="Cadastrar">
+    </p>
+
+</form>
+<p>
+    @ViewBag.Mensagem
+</p>

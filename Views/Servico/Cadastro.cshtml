@@ -1,0 +1,43 @@
+@using Microsoft.AspNetCore.Http;
+
+@model Servico
+@{
+    ViewData["Title"] = "Cadastro";
+}
+
+<form method="POST" asp-action="Cadastro">
+    <p>
+        <label asp-for="Nome">Nome:</label>
+        <input asp-for="Nome" required>
+    </p>
+
+    <p>
+        <label asp-for="Setor">Setor:</label>
+        <input asp-for="Setor">
+    </p>
+    <p>
+        <label asp-for="Preco">Preco:</label>
+        <input asp-for="Preco">
+
+    </p>
+    <p>
+        <label asp-for="Unidade">Unidade:</label>
+        <input asp-for="Unidade">
+    </p>
+    <p>
+        <label asp-for="DataServico">DataServico:</label>
+        <input asp-for="DataServico" type="date">
+    </p>
+    <p>
+
+        <input asp-for="Colaborador" value=@Context.Session.GetInt32("IdColaborador") type="hidden">
+    </p>
+
+    <p>
+        <input type="submit" value="Cadastrar">
+    </p>
+
+</form>
+<p>
+    @ViewBag.Mensagem
+</p>
